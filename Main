@@ -1,0 +1,7 @@
+public class Main
+{
+  public static class main(args[], String)
+  {
+    System.out.println("Hello World");
+  }
+}
